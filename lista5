@@ -1,0 +1,527 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="italia.1.it" tvg-name="ITALIA 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT024Italia1.png" group-title="Italy", ITALIA 1
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2748
+#EXTINF: -1 tvg-id="canale.5.it" tvg-name="Canale 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT003Canale5.png" group-title="Italy", CANALE 5
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2769
+#EXTINF: -1 tvg-id="rete.4.it" tvg-name="RETE 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT063Rete4.png" group-title="Italy", RETE 4
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2709
+#EXTINF: -1 tvg-id="italia.2.it" tvg-name="ITALIA 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT023Italia2.png" group-title="Italy", ITALIA 2
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2749
+#EXTINF: -1 tvg-id="DiscoveryScience.it" tvg-name="DISCOVERY SCIENCE IT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT009DiscoveryScienceIT.png" group-title="Italy", DISCOVERY SCIENCE IT
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2763
+#EXTINF: -1 tvg-name="DISCOVERY FOCUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT025Discoveryfocus.png" group-title="Italy", DISCOVERY FOCUS
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2747
+#EXTINF: -1 tvg-name="DISCOVERY IT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT008DiscoveryIT.png" group-title="Italy", DISCOVERY IT
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2764
+#EXTINF: -1 tvg-id="la7d.it" tvg-name="LA 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT026La7.png" group-title="Italy", LA 7
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2746
+#EXTINF: -1 tvg-name="DISCOVERY TRAVEL & LIVING" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT010DiscoveryTravel&Living.png" group-title="Italy", DISCOVERY TRAVEL & LIVING
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2762
+#EXTINF: -1 tvg-id="Eurosport.it" tvg-name="EURO SPORT 1 -  IT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT015EuroSport1IT.png" group-title="Italy", EURO SPORT 1 -  IT
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2757
+#EXTINF: -1 tvg-id="animal.planet.it" tvg-name="ANIMAL PLANET" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT002AnimalPlanet.png" group-title="Italy", ANIMAL PLANET
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2770
+#EXTINF: -1 tvg-name="FOX IT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT019FoxIT.png" group-title="Italy", FOX IT
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2753
+#EXTINF: -1 tvg-id="Eurosport2.it" tvg-name="EURO SPORT 2 -  IT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT016EuroSport2IT.png" group-title="Italy", EURO SPORT 2 -  IT
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2756
+#EXTINF: -1 tvg-id="fox.life.it" tvg-name="FOX LIFE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT020FoxLife.png" group-title="Italy", FOX LIFE
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2752
+#EXTINF: -1 tvg-id="fox.animation.it" tvg-name="FOX ANIMATION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT021FoxAnimation.png" group-title="Italy", FOX ANIMATION
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2751
+#EXTINF: -1 tvg-id="mediaset.extra.it" tvg-name="MEDIASET EXTRA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT027MediasetExtra.png" group-title="Italy", MEDIASET EXTRA
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2745
+#EXTINF: -1 tvg-id="20Mediaset.it" tvg-name="MEDIASET IRIS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT028MediasetIris.png" group-title="Italy", MEDIASET IRIS
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2744
+#EXTINF: -1 tvg-id="TorinoChannel.it" tvg-name="DAZN - 1 SAT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT029TV8HD.png" group-title="Italy", DAZN - 1 SAT
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2743
+#EXTINF: -1 tvg-id="NatGeoPeople.it" tvg-name="IT030:Nat Geo People IT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT030NatGeoPeopleIT.png" group-title="Italy", NATIONAL GEOGRAPHIC PEOPLE IT
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2742
+#EXTINF: -1 tvg-id="pesca.e.caccia.it" tvg-name="NATIONAL GEOGRAPHIC WILD IT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT031NatGeoWildIT.png" group-title="Italy", NATIONAL GEOGRAPHIC WILD IT
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2741
+#EXTINF: -1 tvg-id="premium.action.it" tvg-name="PREMIUM | ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT034PremiumAction.png" group-title="Italy", PREMIUM | ACTION
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2738
+#EXTINF: -1 tvg-id="PremiumAction.it" tvg-name="PREMIUM | ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT039PremiumAction24.png" group-title="Italy", PREMIUM | ACTION
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2733
+#EXTINF: -1 tvg-id="PremiumCinemaEnergy.it" tvg-name="PREMIUM |  ENERGY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT041PremiumEnergy.png" group-title="Italy", PREMIUM | ENERGY
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2731
+#EXTINF: -1 tvg-id="PremiumCinemaComedy.it" tvg-name="PREMIUM | COMEDY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT042PremiumComedy.png" group-title="Italy", PREMIUM | COMEDY
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2730
+#EXTINF: -1 tvg-id="PremiumCinemaEmotion.it" tvg-name="PREMIUM | EMOTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT045PremiumEmotion.png" group-title="Italy", PREMIUM | EMOTION
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2727
+#EXTINF: -1 tvg-id="PremiumJoi.it" tvg-name="PREMIUM |JOY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT046PremiumJoy.png" group-title="Italy", PREMIUM | JOY
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2726
+#EXTINF: -1 tvg-id="premium.cinema.it" tvg-name="PREMIUM | CINEMA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT040PremiumCinema.png" group-title="Italy", PREMIUM | CINEMA
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2732
+#EXTINF: -1 tvg-id="PremiumCinemaPlus24.it" tvg-name="PREMIUM | CINEMA 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT038PremiumCinema24.png" group-title="Italy", PREMIUM | CINEMA 24
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2734
+#EXTINF: -1 tvg-id="PremiumCinemaPlus24.it" tvg-name="PREMIUM | CINEMA  2 - 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT036PremiumCinema224.png" group-title="Italy", PREMIUM | CINEMA  2 - 24
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2736
+#EXTINF: -1 tvg-id="PremiumStories.it" tvg-name="PREMIUM | SPORT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT047PremiumSport2.png" group-title="Italy", PREMIUM | SPORT
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2725
+#EXTINF: -1 tvg-id="PremiumStories.it" tvg-name="PREMIUM | SPORT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT048PremiumSport1.png" group-title="Italy", PREMIUM | SPORT 1
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2724
+#EXTINF: -1 tvg-id="premium.stories.it" tvg-name="PREMIUM | STORIES" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT049PremiumStories.png" group-title="Italy", PREMIUM | STORIES
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2723
+#EXTINF: -1 tvg-name="PREMIUM | ST UIVERSAL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT050PremiumStudioUniversal.png" group-title="Italy", PREMIUM | ST UNIVERSAL
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2722
+#EXTINF: -1 tvg-id="rai.premium.it" tvg-name="RAI - PREMIUM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT053RaiPremium.png" group-title="Italy", RAI - PREMIUM
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2719
+#EXTINF: -1 tvg-id="rai.sport.it" tvg-name="RAI - STORIA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT054RaiSport.png" group-title="Italy", RAI - STORIA
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2718
+#EXTINF: -1 tvg-id="rai.news.24.it" tvg-name="IT055:Rai News 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT055RaiNews24.png" group-title="Italy", RAI - NEWS 24
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2717
+#EXTINF: -1 tvg-id="rai.1.it" tvg-name="IT057:Rai 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT057Rai1.png" group-title="Italy", RAI - 1
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2715
+#EXTINF: -1 tvg-id="rai.2.it" tvg-name="IT058:Rai 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT058Rai2.png" group-title="Italy", RAI - 2
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2714
+#EXTINF: -1 tvg-id="rai.3.it" tvg-name="RAI - 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT059Rai3.png" group-title="Italy", RAI - 3
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2713
+#EXTINF: -1 tvg-id="rai.4.it" tvg-name="RAI - 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT060Rai4.png" group-title="Italy", RAI - 4
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2712
+#EXTINF: -1 tvg-id="rai.5.it" tvg-name="RAI - 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT061Rai5.png" group-title="Italy", RAI - 5
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2711
+#EXTINF: -1 tvg-id="real.time.it" tvg-name="REAL TIME" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT062RealTime.png" group-title="Italy", REAL TIME
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2710
+#EXTINF: -1 tvg-name="LA 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT064RSILa1.png" group-title="Italy", LA 1
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2708
+#EXTINF: -1 tvg-name="LA 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT065RSILa2.png" group-title="Italy", LA 2
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2707
+#EXTINF: -1 tvg-name="SKY | CALCIO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT066SkyCalcio.png" group-title="Italy", SKY | CALCIO
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2706
+#EXTINF: -1 tvg-id="sky.cinema.1.it" tvg-name="SKY CINEMA - 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT067SkyCinema1.png" group-title="Italy", SKY | CINEMA - 1
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2705
+#EXTINF: -1 tvg-id="sky.cinema.classics.it" tvg-name="SKY | CINEMA - CLASIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT068SkyCinemaClassic.png" group-title="Italy", SKY | CINEMA - CLASIC
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2704
+#EXTINF: -1 tvg-id="sky.cinema.comedy.it" tvg-name="SKY | CINEMA - COMEDY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT069SkyCinemaComedy.png" group-title="Italy", SKY | CINEMA - COMEDY
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2703
+#EXTINF: -1 tvg-id="sky.cinema.family.it" tvg-name="SKY | CINEMA - FAMILY" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT070SkyCinemaFamily.png" group-title="Italy", SKY | CINEMA - FAMILY
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2702
+#EXTINF: -1 tvg-id="sky.cinema.max.it" tvg-name="SKY | CLASSICA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT071SkyCinemaMax.png" group-title="Italy", SKY | CLASSICA
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2701
+#EXTINF: -1 tvg-id="sky.cinema.passion.it" tvg-name="SKY | CINEMA - PASSION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT072SkyCinemaPassion.png" group-title="Italy", SKY | CINEMA - PASSION
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2700
+#EXTINF: -1 tvg-id="sky.cinema.cult.it" tvg-name="POP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT073SkyCinemaCult.png" group-title="Italy", POP
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2699
+#EXTINF: -1 tvg-name="SKY | MOTO GP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT074SkyMotoGP.png" group-title="Italy", SKY | MOTO GP
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2698
+#EXTINF: -1 tvg-id="SKY SPORT 24" tvg-name="SKY | SPORT 24" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT076SkySport24.png" group-title="Italy", SKY | SPORT 24
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2696
+#EXTINF: -1 tvg-id="sky.sport.f1.it" tvg-name="SKY | SPORT - F1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT077SkySportF1.png" group-title="Italy", SKY | SPORT - F1
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2695
+#EXTINF: -1 tvg-id="SKY | SPORT 1" tvg-name="IT078:Sky Sport 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT078SkySport1.png" group-title="Italy", SKY | SPORT 1
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2694
+#EXTINF: -1 tvg-id="sky.sport.2.it" tvg-name="SKY | SPORT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT079SkySport2.png" group-title="Italy", SKY |SPORT 2
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2693
+#EXTINF: -1 tvg-id="sky.sport.3.it" tvg-name="SKY | SPORT 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT080SkySport3.png" group-title="Italy", SKY | SPORT 3
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2692
+#EXTINF: -1 tvg-id="sky.uno.it" tvg-name="SKY UNO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT082SkyUno.png" group-title="Italy", SKY UNO
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2690
+#EXTINF: -1 tvg-id="sky.atlantic.it" tvg-name="SKY | ATLANTIC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT085SkyAtlantic.png" group-title="Italy", SKY | ATLANTIC
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2687
+#EXTINF: -1 tvg-id="sky.tg.24.meteo.it" tvg-name="MANGA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT081SkyTG24.png" group-title="Italy", MANGA
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2691
+#EXTINF: -1 tvg-id="MilitaryHistory.us" tvg-name="HISTORY IT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT087HistoryIT.png" group-title="Italy", HISTORY IT
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2685
+#EXTINF: -1 tvg-name="DAZN SAT 1 | UHD" group-title="Italy", DAZN SAT 1 | UHD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28473
+#EXTINF: -1 tvg-name="DAZN SAT 1 | HD" group-title="Italy", DAZN SAT 1 | HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28472
+#EXTINF: -1 tvg-name="DAZN SAT 1 | SD" group-title="Italy", DAZN SAT 1 | SD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28471
+#EXTINF: -1 tvg-name="SKY SPORT SERIE A | UHD" group-title="Italy", SKY SPORT SERIE A | UHD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28470
+#EXTINF: -1 tvg-name="SKY SPORT SERIE A | HD" group-title="Italy", SKY SPORT SERIE A | HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28469
+#EXTINF: -1 tvg-name="SKY SPORT SERIE A | SD" group-title="Italy", SKY SPORT SERIE A | SD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28468
+#EXTINF: -1 tvg-name="SKY SPORT MOTO GP | UHD" group-title="Italy", SKY SPORT MOTO GP | UHD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28467
+#EXTINF: -1 tvg-name="SKY SPORT MOTO GP | HD" group-title="Italy", SKY SPORT MOTO GP | HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28466
+#EXTINF: -1 tvg-name="SKY SPORT MOTO GP | SD" group-title="Italy", SKY SPORT MOTO GP | SD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28465
+#EXTINF: -1 tvg-name="SKY ATLANTIC +1" group-title="Italy", SKY ATLANTIC +1
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28464
+#EXTINF: -1 tvg-name="SKY UNO 1" group-title="Italy", SKY UNO 1
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28463
+#EXTINF: -1 tvg-name="SKY SPORT MOTO GP" group-title="Italy", SKY SPORT MOTO GP
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28456
+#EXTINF: -1 tvg-name="SKY F1 HD" group-title="Italy", SKY F1 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28455
+#EXTINF: -1 tvg-name="SKY CINEMA24 HD" group-title="Italy", SKY CINEMA24 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28454
+#EXTINF: -1 tvg-name="SKY CINEMA 1 HD" group-title="Italy", SKY CINEMA 1 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28453
+#EXTINF: -1 tvg-name="SKY SPORT COLLECTION" group-title="Italy", SKY SPORT COLLECTION
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28452
+#EXTINF: -1 tvg-name="SKY FOX LIFE + 1" group-title="Italy", SKY FOX LIFE + 1
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28451
+#EXTINF: -1 tvg-name="PREMIUM CINEMA -  2" group-title="Italy", PREMIUM CINEMA -  2
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28450
+#EXTINF: -1 tvg-name="DEEJAY TV NOVE" group-title="Italy", DEEJAY TV NOVE
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28449
+#EXTINF: -1 tvg-name="DEEJAY TV" group-title="Italy", DEEJAY TV
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28419
+#EXTINF: -1 tvg-name="DAZN 1 HD" group-title="Italy", DAZN 1 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28415
+#EXTINF: -1 tvg-name="DAZN 2 HD" group-title="Italy", DAZN 2 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28414
+#EXTINF: -1 tvg-name="DAZN 3 HD" group-title="Italy", DAZN 3 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28413
+#EXTINF: -1 tvg-name="DAZN 4 HD" group-title="Italy", DAZN 4 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28412
+#EXTINF: -1 tvg-name="DAZN 5 HD" group-title="Italy", DAZN 5 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28411
+#EXTINF: -1 tvg-name="DAZN 6 HD" group-title="Italy", DAZN 6 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28410
+#EXTINF: -1 tvg-name="DAZN 7 HD" group-title="Italy", DAZN 7 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28409
+#EXTINF: -1 tvg-name="DAZN 8 HD" group-title="Italy", DAZN 8 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28408
+#EXTINF: -1 tvg-name="DAZN 9 HD" group-title="Italy", DAZN 9 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28407
+#EXTINF: -1 tvg-name="GOLD TV" group-title="Italy", GOLD TV
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28379
+#EXTINF: -1 tvg-name="ENERGY HD" group-title="Italy", ENERGY HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28378
+#EXTINF: -1 tvg-name="MEDIASET ITALIA DUE HD" group-title="Italy", MEDIASET ITALIA DUE HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28373
+#EXTINF: -1 tvg-name="IRIS HD" group-title="Italy", IRIS HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28362
+#EXTINF: -1 tvg-name="JUVENTUS CHANNEL" group-title="Italy", JUVENTUS CHANNEL
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28360
+#EXTINF: -1 tvg-name="TELE BARI" group-title="Italy", TELE BARI
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28358
+#EXTINF: -1 tvg-name="NEDIASET EXTRA" group-title="Italy", MEDIASET EXTRA
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28352
+#EXTINF: -1 tvg-name="MEDIASET 20 HD" group-title="Italy", MEDIASET 20 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28351
+#EXTINF: -1 tvg-name="IT214:MEDIASET ITALIA 2" group-title="Italy", MEDIASET ITALIA 2
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28348
+#EXTINF: -1 tvg-name="MTV - MUSIC" group-title="Italy", MTV - MUSIC
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28343
+#EXTINF: -1 tvg-name="NAT GEO PEOPLE FHD" group-title="Italy", NAT GEO PEOPLE FHD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28342
+#EXTINF: -1 tvg-name="IT228:SKY SUPER CALCIO HD" group-title="Italy", SKY SUPER CALCIO HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28334
+#EXTINF: -1 tvg-name="PREMIUM CALCIO - 3 HD" group-title="Italy", PREMIUM CALCIO - 3 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28333
+#EXTINF: -1 tvg-name="SKY SPORT UNO" group-title="Italy", SKY SPORT UNO
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28332
+#EXTINF: -1 tvg-name="IT231:TG com 24 HD" group-title="Italy", TG COM - 24 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28331
+#EXTINF: -1 tvg-name="PREMIUM ENERGY" group-title="Italy", PREMIUM ENERGY
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28329
+#EXTINF: -1 tvg-name="PREMIUM CINEMA 2" group-title="Italy", PREMIUM CINEMA 2
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28327
+#EXTINF: -1 tvg-name="PREMIUM CINEMA HD" group-title="Italy", PREMIUM CINEMA HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28326
+#EXTINF: -1 tvg-name="PREMIUM STORIES  24" group-title="Italy", PREMIUM STORIES  24
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28323
+#EXTINF: -1 tvg-name="SKY | PRIMAFILA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IT/IT075SkyPrimafila.png" group-title="Italy", SKY | PRIMAFILA
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/2697
+#EXTINF: -1 tvg-name="SKY PRIMAFILA | 1" group-title="Italy", SKY PRIMAFILA | 1
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28322
+#EXTINF: -1 tvg-name="SKY PRIMAFILA | 2" group-title="Italy", SKY PRIMAFILA | 2
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28321
+#EXTINF: -1 tvg-name="SKY PRIMAFILA | 3" group-title="Italy", SKY PRIMAFILA | 3
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28320
+#EXTINF: -1 tvg-name="SKY PRIMAFILA | 4" group-title="Italy", SKY PRIMAFILA | 4
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28319
+#EXTINF: -1 tvg-name="SKY PRIMAFILA | 5" group-title="Italy", SKY PRIMAFILA | 5
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28318
+#EXTINF: -1 tvg-name="SKY PRIMAFILA | 6" group-title="Italy", SKY PRIMAFILA | 6
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28317
+#EXTINF: -1 tvg-name="SKY PRIMAFILA | 7" group-title="Italy", SKY PRIMAFILA | 7
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28316
+#EXTINF: -1 tvg-name="SKY PRIMAFILA | 8" group-title="Italy", SKY PRIMAFILA | 8
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28315
+#EXTINF: -1 tvg-name="SKY PRIMAFILA | 9" group-title="Italy", SKY PRIMAFILA | 9
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28314
+#EXTINF: -1 tvg-name="SKY PRIMAFILA | 10" group-title="Italy", SKY PRIMAFILA | 10
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28313
+#EXTINF: -1 tvg-name="SKY PRIMAFILA | 11" group-title="Italy", SKY PRIMAFILA | 11
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28312
+#EXTINF: -1 tvg-name="SKY PRIMAFILA | 14" group-title="Italy", SKY PRIMAFILA | 14
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28311
+#EXTINF: -1 tvg-name="SKY PRIMAFILA | 18" group-title="Italy", SKY PRIMAFILA | 18
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28305
+#EXTINF: -1 tvg-name="MILAN CHANNEL" group-title="Italy", MILAN CHANNEL
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28272
+#EXTINF: -1 tvg-name="ROMA CHANNEL HD" group-title="Italy", ROMA CHANNEL HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28293
+#EXTINF: -1 tvg-name="SKY ARTE HD" group-title="Italy", SKY ARTE HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28283
+#EXTINF: -1 tvg-name="SKY SPORT - FOOTBALL  HD" group-title="Italy", SKY SPORT - FOOTBALL  HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28307
+#EXTINF: -1 tvg-name="SKY SPORT - ARENA  HD" group-title="Italy", SKY SPORT - ARENA  HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28306
+#EXTINF: -1 tvg-name="SKY SPORT - SERIE A HD" group-title="Italy", SKY SPORT - SERIE A HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28324
+#EXTINF: -1 tvg-name="SUPER CALCIO  HD" group-title="Italy", SUPER CALCIO  HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28285
+#EXTINF: -1 tvg-name="SKY UNO +" group-title="Italy", SKY UNO +
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28304
+#EXTINF: -1 tvg-name="SKY CALCIO | 1 HD" group-title="Italy", SKY CALCIO | 1 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28282
+#EXTINF: -1 tvg-name="SKY CALCIO | 2 HD" group-title="Italy", SKY CALCIO | 2 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28281
+#EXTINF: -1 tvg-name="SKY CALCIO | 3 HD" group-title="Italy", SKY CALCIO | 3 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28280
+#EXTINF: -1 tvg-name="SKY CALCIO | 4 HD" group-title="Italy", SKY CALCIO | 4 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28279
+#EXTINF: -1 tvg-name="SKY CALCIO | 5 HD" group-title="Italy", SKY CALCIO | 5 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28278
+#EXTINF: -1 tvg-name="SKY CALCIO | 6 HD" group-title="Italy", SKY CALCIO | 6 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28284
+#EXTINF: -1 tvg-name="SKY SERIE A" group-title="Italy", SKY SERIE  A
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28277
+#EXTINF: -1 tvg-name="SKY CINEMA  | 24 HD" group-title="Italy", SKY CINEMA  | 24 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28275
+#EXTINF: -1 tvg-name="SKY CINEMA | ACTION HD" group-title="Italy", SKY CINEMA | ACTION HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28274
+#EXTINF: -1 tvg-name="SKY CINEMA | DRAMA" group-title="Italy", SKY CINEMA | DRAMA
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28271
+#EXTINF: -1 tvg-name=":SKY CINEMA | DUE" group-title="Italy", SKY CINEMA | DUE
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28270
+#EXTINF: -1 tvg-name="SKY CINEMA | HITS HD" group-title="Italy", SKY CINEMA | HITS HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28269
+#EXTINF: -1 tvg-name="IT294:SKY CINEMA ROMANC" group-title="Italy", SKY CINEMA | ROMANC
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28268
+#EXTINF: -1 tvg-name="SKY CINEMA | ROMANCE HD" group-title="Italy", SKY CINEMA | ROMANCE HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28267
+#EXTINF: -1 tvg-name="IT296:SKY CINEMA UNO  24 HD" group-title="Italy", SKY CINEMA | UNO  24
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28266
+#EXTINF: -1 tvg-name="IT297:SKY CINEMA UNO HD" group-title="Italy", SKY CINEMA | UNO HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28265
+#EXTINF: -1 tvg-name="IT298:Sky F1 FHD" group-title="Italy", Sky F1 | FHD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/28264
+#EXTINF: -1 tvg-name="------|Albania|------" group-title="Albania", ------|Albania|------
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30634
+#EXTINF: -1 tvg-name="SUPER SPORT | 4 HD" tvg-chno="SUPERSPORT.AL" tvg-logo="http://www.avdstudio.net/supersport.png" tvg-logo-small="http://www.avdstudio.net/supersport.png" group-title="Albania", SUPER SPORT | 4 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30633
+#EXTINF: -1 tvg-id="supersport.al" tvg-name="SUPER SPORT | 3 HD" tvg-chno="1" tvg-logo="http://www.avdstudio.net/supersport.png" tvg-logo-small="http://www.avdstudio.net/supersport.png" group-title="Albania", SUPER SPORT | 3 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30632
+#EXTINF: -1 tvg-id="supersport.al" tvg-name="SUPER SPORT | 2 HD" tvg-chno="25" tvg-logo="http://www.avdstudio.net/supersport.png" tvg-logo-small="http://www.avdstudio.net/supersport.png" group-title="Albania", SUPER SPORT | 2 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30631
+#EXTINF: -1 tvg-name="SUPER SPORT | 1 HD" tvg-logo="http://www.avdstudio.net/supersport.png" tvg-logo-small="http://www.avdstudio.net/supersport.png" group-title="Albania", SUPER SPORT | 1 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30630
+#EXTINF: -1 tvg-name="SKY | KOMEDI" tvg-logo="http://www.avdstudio.net/sky.png" tvg-logo-small="http://www.avdstudio.net/sky.png" group-title="Albania", SKY | KOMEDI
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30629
+#EXTINF: -1 tvg-name="SKY | HISTORI" tvg-logo="http://www.avdstudio.net/sky.png" tvg-logo-small="http://www.avdstudio.net/sky.png" group-title="Albania", SKY | HISTORI
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30628
+#EXTINF: -1 tvg-name="SKY | AL MAX" tvg-logo="http://www.avdstudio.net/sky.png" tvg-logo-small="http://www.avdstudio.net/sky.png" group-title="Albania", SKY | AL MAX
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30627
+#EXTINF: -1 tvg-name="VIZION PLUS | TOKESOR" tvg-logo="http://www.avdstudio.net/vizion_plus.png" tvg-logo-small="http://www.avdstudio.net/vizion_plus.png" group-title="Albania", VIZION PLUS | TOKESOR
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30625
+#EXTINF: -1 tvg-name="VIZION PLUS | HD" tvg-logo="http://www.avdstudio.net/vizion_plus.png" tvg-logo-small="http://www.avdstudio.net/vizion_plus.png" group-title="Albania", VIZION PLUS | HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30624
+#EXTINF: -1 tvg-name="http://www.avdstudio.net/vizion_plus.png" tvg-logo="http://www.avdstudio.net/digitalb.png" tvg-logo-small="http://www.avdstudio.net/digitalb.png" group-title="Albania", SHKENCA HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30623
+#EXTINF: -1 tvg-name="TRING | SPORT 2 HD" tvg-logo="http://www.avdstudio.net/tring.png" tvg-logo-small="http://www.avdstudio.net/tring.png" group-title="Albania", TRING | SPORT 2 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30622
+#EXTINF: -1 tvg-name="SKY | SHKENCE" tvg-logo="http://www.avdstudio.net/sky.png" tvg-logo-small="http://www.avdstudio.net/sky.png" group-title="Albania", SKY | SHKENCE
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30620
+#EXTINF: -1 tvg-name="SKY | ACTION" tvg-logo="http://www.avdstudio.net/sky.png" tvg-logo-small="http://www.avdstudio.net/sky.png" group-title="Albania", SKY | ACTION
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30618
+#EXTINF: -1 tvg-name="RTSH | SPORT HD" group-title="Albania", RTSH | SPORT HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30613
+#EXTINF: -1 tvg-name="PLUS HD (Digitalb)" tvg-logo="http://www.avdstudio.net/digitalb.png" tvg-logo-small="http://www.avdstudio.net/digitalb.png" group-title="Albania", PLUS HD (Digitalb)
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30610
+#EXTINF: -1 tvg-name="PLUS HD" tvg-logo="http://www.avdstudio.net/digitalb.png" tvg-logo-small="http://www.avdstudio.net/digitalb.png" group-title="Albania", PLUS HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30609
+#EXTINF: -1 tvg-name="NEWS 24" group-title="Albania", NEWS 24
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30607
+#EXTINF: -1 tvg-name="AL030:KLAN Plus" tvg-logo="http://www.avdstudio.net/tvklan.png" tvg-logo-small="http://www.avdstudio.net/tvklan.png" group-title="Albania", AL030:KLAN Plus
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30604
+#EXTINF: -1 tvg-name="AL031:Klan Kosova Toksor" tvg-logo="http://www.avdstudio.net/tvklan.png" tvg-logo-small="http://www.avdstudio.net/tvklan.png" group-title="Albania", AL031:Klan Kosova Toksor
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30603
+#EXTINF: -1 tvg-name="AL033:KLAN HD" tvg-logo="http://www.avdstudio.net/tvklan.png" tvg-logo-small="http://www.avdstudio.net/tvklan.png" group-title="Albania", AL033:KLAN HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30601
+#EXTINF: -1 tvg-name="KINO | SCIFI HD" tvg-logo="http://www.avdstudio.net/digitalb.png" tvg-logo-small="http://www.avdstudio.net/digitalb.png" group-title="Albania", KINO | SCIFI HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30599
+#EXTINF: -1 tvg-name="KINO | ROMANCE HD" tvg-logo="http://www.avdstudio.net/digitalb.png" tvg-logo-small="http://www.avdstudio.net/digitalb.png" group-title="Albania", KINO | ROMANCE HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30598
+#EXTINF: -1 tvg-name="KINO | PREMIERE 3 HD" tvg-logo="http://www.avdstudio.net/digitalb.png" tvg-logo-small="http://www.avdstudio.net/digitalb.png" group-title="Albania", KINO | PREMIERE 3 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30597
+#EXTINF: -1 tvg-name="KINO | ACTION" tvg-logo="http://www.avdstudio.net/digitalb.png" tvg-logo-small="http://www.avdstudio.net/digitalb.png" group-title="Albania", KINO | ACTION
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30591
+#EXTINF: -1 tvg-name="FILM NJE HD" tvg-logo="http://www.avdstudio.net/digitalb.png" tvg-logo-small="http://www.avdstudio.net/digitalb.png" group-title="Albania", FILM NJE HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30587
+#EXTINF: -1 tvg-name="AL052:Explorer Shkenc" tvg-logo="http://www.avdstudio.net/digitalb.png" tvg-logo-small="http://www.avdstudio.net/digitalb.png" group-title="Albania", AL052:Explorer Shkenc
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30582
+#EXTINF: -1 tvg-name="AL053:Explorer Natyra" tvg-logo="http://www.avdstudio.net/digitalb.png" tvg-logo-small="http://www.avdstudio.net/digitalb.png" group-title="Albania", AL053:Explorer Natyra
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30581
+#EXTINF: -1 tvg-name="AL054:Explorer Histori" tvg-logo="http://www.avdstudio.net/digitalb.png" tvg-logo-small="http://www.avdstudio.net/digitalb.png" group-title="Albania", AL054:Explorer Histori
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30580
+#EXTINF: -1 tvg-name="ALB UK HD" tvg-logo="http://www.avdstudio.net/albuk.png" tvg-logo-small="http://www.avdstudio.net/albuk.png" group-title="Albania", ALB UK HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30578
+#EXTINF: -1 tvg-name="ABC NEWS" group-title="Albania", ABC NEWS
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30576
+#EXTINF: -1 tvg-name="A1" group-title="Albania", A1
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30575
+#EXTINF: -1 tvg-name="TOP NEWS" tvg-logo="http://www.avdstudio.net/topnews.png" tvg-logo-small="http://www.avdstudio.net/topnews.png" group-title="Albania", TOP NEWS
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30574
+#EXTINF: -1 tvg-name="TRING | WORLD" tvg-logo="http://www.avdstudio.net/tring.png" tvg-logo-small="http://www.avdstudio.net/tring.png" group-title="Albania", TRING | WORLD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30572
+#EXTINF: -1 tvg-name="TRING | TRING" tvg-logo="http://www.avdstudio.net/tring.png" tvg-logo-small="http://www.avdstudio.net/tring.pngvvvv" group-title="Albania", TRING | TRING
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30571
+#EXTINF: -1 tvg-name="TRING | SUPER" tvg-logo="http://www.avdstudio.net/tring.png" tvg-logo-small="http://www.avdstudio.net/tring.png" group-title="Albania", TRING | SUPER
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30570
+#EXTINF: -1 tvg-name="TRING | SPORT 1 HD" tvg-logo="http://www.avdstudio.net/tring.png" tvg-logo-small="http://www.avdstudio.net/tring.png" group-title="Albania", TRING | SPORT 1 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30568
+#EXTINF: -1 tvg-name="TRING | SPORT 4 HD" tvg-logo="http://www.avdstudio.net/tring.png" tvg-logo-small="http://www.avdstudio.net/tring.png" group-title="Albania", TRING | SPORT 4 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30569
+#EXTINF: -1 tvg-name="TRING | SHQIP" tvg-logo="http://www.avdstudio.net/tring.png" tvg-logo-small="http://www.avdstudio.net/tring.png" group-title="Albania", TRING | SHQIP
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30567
+#EXTINF: -1 tvg-name="TRING | PLANET" tvg-logo="http://www.avdstudio.net/tring.png" tvg-logo-small="http://www.avdstudio.net/tring.png" group-title="Albania", TRING | PLANET
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30566
+#EXTINF: -1 tvg-name="TRING | MAX" tvg-logo="http://www.avdstudio.net/tring.png" tvg-logo-small="http://www.avdstudio.net/tring.png" group-title="Albania", TRING | MAX
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30565
+#EXTINF: -1 tvg-name="TRING | LIFE" tvg-logo="http://www.avdstudio.net/tring.png" tvg-logo-small="http://www.avdstudio.net/tring.png" group-title="Albania", TRING | LIFE
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30564
+#EXTINF: -1 tvg-name="TRING | KOMEDI" tvg-logo="http://www.avdstudio.net/tring.png" tvg-logo-small="http://www.avdstudio.net/tring.png" group-title="Albania", TRING | KOMEDI
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30563
+#EXTINF: -1 tvg-name="TRING | FANTASY" tvg-logo="http://www.avdstudio.net/tring.png" tvg-logo-small="http://www.avdstudio.net/tring.png" group-title="Albania", TRING | FANTASY
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30561
+#EXTINF: -1 tvg-name="TOP CHANNEL HD" group-title="Albania", TOP CHANNEL HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30559
+#EXTINF: -1 tvg-name="SUPER SPORT 5" tvg-logo="http://www.avdstudio.net/supersport.png" tvg-logo-small="http://www.avdstudio.net/supersport.png" group-title="Albania", SUPER SPORT 5
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30556
+#EXTINF: -1 tvg-name="SUPER SPORT 4" tvg-logo="http://www.avdstudio.net/supersport.png" tvg-logo-small="http://www.avdstudio.net/supersport.png" group-title="Albania", SUPER SPORT 4
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30555
+#EXTINF: -1 tvg-name="SUPER SPORT 3" tvg-logo="http://www.avdstudio.net/supersport.png" tvg-logo-small="http://www.avdstudio.net/supersport.png" group-title="Albania", SUPER SPORT 3
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30554
+#EXTINF: -1 tvg-name="KLAN + HD" tvg-logo="http://www.avdstudio.net/tvklan.png" tvg-logo-small="http://www.avdstudio.net/tvklan.png" group-title="Albania", KLAN + HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30553
+#EXTINF: -1 tvg-name="RTV 21" group-title="Albania", RTV 21
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30551
+#EXTINF: -1 tvg-name="ORA NEWS" group-title="Albania", ORA NEWS
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30549
+#EXTINF: -1 tvg-name="NEWS 24" group-title="Albania", NEWS 24
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30548
+#EXTINF: -1 tvg-name="RTSH | 1 HD" group-title="Albania", RTSH | 1 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30547
+#EXTINF: -1 tvg-name="RTSH | 3 HD" group-title="Albania", RTSH | 3 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30536
+#EXTINF: -1 tvg-name="RTSH | PLUS HD" group-title="Albania", RTSH | PLUS HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30530
+#EXTINF: -1 tvg-name="HUMOR 1" group-title="Albania", HUMOR 1
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30543
+#EXTINF: -1 tvg-name="RTSH | 24 HD" group-title="Albania", RTSH | 24 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30535
+#EXTINF: -1 tvg-name="RTSH | MUZIKE HD" group-title="Albania", RTSH | MUZIKE HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30522
+#EXTINF: -1 tvg-name="RTSH | KORCA HD" group-title="Albania", RTSH | KORCA HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30526
+#EXTINF: -1 tvg-name="RTSH | SHQIP HD" group-title="Albania", RTSH | SHQIP HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30516
+#EXTINF: -1 tvg-name="RTSH | SPORTS HD" group-title="Albania", RTSH | SPORTS HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30514
+#EXTINF: -1 tvg-name="RTSH | FILM HD" group-title="Albania", RTSH | FILM HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30510
+#EXTINF: -1 tvg-name="FILM DY" tvg-logo="http://www.avdstudio.net/digitalb.png" tvg-logo-small="http://www.avdstudio.net/digitalb.png" group-title="Albania", FILM DY
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30540
+#EXTINF: -1 tvg-name=":EXP HISTORI" tvg-logo="http://www.avdstudio.net/digitalb.png" tvg-logo-small="http://www.avdstudio.net/digitalb.png" group-title="Albania", :EXP HISTORI
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30538
+#EXTINF: -1 tvg-name="DIGI GOLD" tvg-logo="http://www.avdstudio.net/digitalb.png" tvg-logo-small="http://www.avdstudio.net/digitalb.png" group-title="Albania", DIGI GOLD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30537
+#EXTINF: -1 tvg-name="ALB HINDI" group-title="Albania", ALB HINDI
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30533
+#EXTINF: -1 tvg-name="ACTION" tvg-logo="http://www.avdstudio.net/digitalb.png" tvg-logo-small="http://www.avdstudio.net/digitalb.png" group-title="Albania", ACTION
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30532
+#EXTINF: -1 tvg-name="ABC NEWS HD" group-title="Albania", ABC NEWS HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30527
+#EXTINF: -1 tvg-name="AKSION HD" tvg-logo="http://www.avdstudio.net/digitalb.png" tvg-logo-small="http://www.avdstudio.net/digitalb.png" group-title="Albania", AKSION HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30525
+#EXTINF: -1 tvg-name="A1 REPORT" group-title="Albania", A1 REPORT
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30524
+#EXTINF: -1 tvg-name="ALB ACTION HD" group-title="Albania", ALB ACTION HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30523
+#EXTINF: -1 tvg-name="ALB FOLK 1 HD" group-title="Albania", ALB FOLK 1 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30521
+#EXTINF: -1 tvg-name="ALB HINDI HD" group-title="Albania", ALB HINDI HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30520
+#EXTINF: -1 tvg-name="ALB HITS HD" group-title="Albania", ALB HITS HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30519
+#EXTINF: -1 tvg-name="ALB MUSIC HD" group-title="Albania", ALB MUSIC HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30513
+#EXTINF: -1 tvg-name="ALSAT" group-title="Albania", ALSAT
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30508
+#EXTINF: -1 tvg-name="ANIMAL PLANET HD" group-title="Albania", ANIMAL PLANET HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30507
+#EXTINF: -1 tvg-name="VISION PLUS HD" tvg-logo="http://www.avdstudio.net/vizion_plus.png" tvg-logo-small="http://www.avdstudio.net/vizion_plus.png" group-title="Albania", VISION PLUS HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30506
+#EXTINF: -1 tvg-name="APOLLON TV" group-title="Albania", APOLLON TV
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30505
+#EXTINF: -1 tvg-name="ERA TV HD" group-title="Albania", ERA TV HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30504
+#EXTINF: -1 tvg-name="FILM NJË HD" group-title="Albania", FILM NJË HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30501
+#EXTINF: -1 tvg-name="ZJARR TV" group-title="Albania", ZJARR TV
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30500
+#EXTINF: -1 tvg-name="FILM DY HD" group-title="Albania", FILM DY HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30499
+#EXTINF: -1 tvg-name="VISION PLUS HD" tvg-logo="http://www.avdstudio.net/vizion_plus.png" tvg-logo-small="http://www.avdstudio.net/vizion_plus.png" group-title="Albania", VISION PLUS HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30498
+#EXTINF: -1 tvg-name="BBF MUSIC TV" group-title="Albania", BBF MUSIC TV
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30494
+#EXTINF: -1 tvg-name="FILM HITS HD" group-title="Albania", FILM HITS HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30492
+#EXTINF: -1 tvg-name="FILM AUTOR HD" group-title="Albania", FILM AUTOR HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30491
+#EXTINF: -1 tvg-name="FILM AKSION HD" group-title="Albania", FILM AKSION HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30486
+#EXTINF: -1 tvg-name="CLUB TV" group-title="Albania", CLUB TV
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30484
+#EXTINF: -1 tvg-name="EURO AL" group-title="Albania", EURO AL
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30475
+#EXTINF: -1 tvg-name="EUROSPORT 1 HD" group-title="Albania", EUROSPORT 1 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30474
+#EXTINF: -1 tvg-name="EUROSPORT 2 HD" group-title="Albania", EUROSPORT 2 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30473
+#EXTINF: -1 tvg-name="EXPLORER HISTORY" group-title="Albania", EXPLORER HISTORY
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30472
+#EXTINF: -1 tvg-name="EXPLORER NATYRE" group-title="Albania", EXPLORER NATURE
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30471
+#EXTINF: -1 tvg-name="EXPLORER SHKENCE HD" group-title="Albania", EXPLORER SHKENCE HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30470
+#EXTINF: -1 tvg-name="FILM AKSION HD" group-title="Albania", FILM AKSION HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30468
+#EXTINF: -1 tvg-name="TDC" group-title="Albania", TDC
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30466
+#EXTINF: -1 tvg-name="FILM DRAME" group-title="Albania", FILM DRAME
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30465
+#EXTINF: -1 tvg-name="FILM DY HD" group-title="Albania", FILM DY HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30464
+#EXTINF: -1 tvg-name="AL171:Film Family HD" group-title="Albania", AL171:Film Family HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30463
+#EXTINF: -1 tvg-name="AL172:Film Gold 1 HD" group-title="Albania", AL172:Film Gold 1 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30462
+#EXTINF: -1 tvg-name="AL173:FILM Gold 3 HD" group-title="Albania", AL173:FILM Gold 3 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30461
+#EXTINF: -1 tvg-name="AL174:Film Gold 4 HD" group-title="Albania", AL174:Film Gold 4 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30460
+#EXTINF: -1 tvg-name="AL175:Film Hits HD" group-title="Albania", AL175:Film Hits HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30459
+#EXTINF: -1 tvg-name="AL178:Film Nje HD" group-title="Albania", AL178:Film Nje HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30456
+#EXTINF: -1 tvg-name="AL184:FOLK HD" group-title="Albania", AL184:FOLK HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30450
+#EXTINF: -1 tvg-name="AL190:X Premium 4 HD" group-title="Albania", AL190:X Premium 4 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30444
+#EXTINF: -1 tvg-name="AL193:History Channel" group-title="Albania", AL193:History Channel
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30441
+#EXTINF: -1 tvg-name="AL200:K Sport 1 HD" tvg-logo="http://www.avdstudio.net/supersport.png" tvg-logo-small="http://www.avdstudio.net/supersport.png" group-title="Albania", AL200:K Sport 1 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30434
+#EXTINF: -1 tvg-name="AL201:K Sport 2 HD" tvg-logo="http://www.avdstudio.net/supersport.png" tvg-logo-small="http://www.avdstudio.net/supersport.png" group-title="Albania", AL201:K Sport 2 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30433
+#EXTINF: -1 tvg-name="AL203:K Sport 4 HD" tvg-logo="http://www.avdstudio.net/supersport.png" tvg-logo-small="http://www.avdstudio.net/supersport.png" group-title="Albania", AL203:K Sport 4 HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30431
+#EXTINF: -1 tvg-name="AL211:Klan HD" tvg-logo="http://www.avdstudio.net/tvklan.png" tvg-logo-small="http://www.avdstudio.net/tvklan.png" group-title="Albania", AL211:Klan HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30423
+#EXTINF: -1 tvg-name="AL212:KLAN KOSOVA HD" tvg-logo="http://www.avdstudio.net/tvklan.png" tvg-logo-small="http://www.avdstudio.net/tvklan.png" group-title="Albania", AL212:KLAN KOSOVA HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30422
+#EXTINF: -1 tvg-name="AL214:Klan Plus HD" tvg-logo="http://www.avdstudio.net/tvklan.png" tvg-logo-small="http://www.avdstudio.net/tvklan.png" group-title="Albania", AL214:Klan Plus HD
+http://mu02.v2iptv.com:8880/ZYXLM1225/3S68TJZhNV/30420
